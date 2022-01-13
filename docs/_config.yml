@@ -1,4 +1,12 @@
 title: "Test Title"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+
+# Search
 search_enabled: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer
+footer_content: "© 2022 Test"
