@@ -1,1 +1,1 @@
-# test-just-the-docs
+# Just the project readme
