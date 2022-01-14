@@ -60,7 +60,8 @@ Svar foo = function (bar) {
 
 Syntax highlighting
 
-``` js
+```js
 var foo = function (bar) {
   return bar++;
 };
+```
