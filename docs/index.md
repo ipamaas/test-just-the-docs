@@ -41,17 +41,10 @@ Ordered
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
+3. 3. Integer molestie lorem at massa
 
 1. Use sequential numbers ...
 1. or just repeat `1.`
-
-Set number to start with:
-
-15. Hello
-1. World!
-
 
 ## Code
 
