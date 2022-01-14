@@ -51,3 +51,23 @@ Set number to start with:
 
 15. Hello
 1. World!
+
+
+## Code
+
+Inline `code`
+
+Block code
+
+```
+Svar foo = function (bar) {
+  return bar++;
+};
+```
+
+Syntax highlighting
+
+``` js
+var foo = function (bar) {
+  return bar++;
+};
