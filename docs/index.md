@@ -26,3 +26,28 @@ _This is italic text_
 > Blockquotes level 1
 >> Blockquotes level 2
 > > > Blockquotes level 3
+
+## Lists
+
+Unordered
+
+- Create list with `+`, `-`, or `*`
+- Sub-list:
+  + Entry 1
+  + Entry 2
+- ...
+
+Ordered
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. Use sequential numbers ...
+1. or just repeat `1.`
+
+Set number to start with:
+
+15. Hello
+1. World!
