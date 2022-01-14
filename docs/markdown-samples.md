@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown Samples
-nav_order: 1
+nav_order: 3
 description: "This is a sample page presenting some of the mos used markdown elements."
 permalink: /markdown-samples
 ---
