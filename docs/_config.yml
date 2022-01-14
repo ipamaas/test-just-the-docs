@@ -4,6 +4,11 @@ remote_theme: pmarsceill/just-the-docs
 # Search
 search_enabled: true
 
+# Aux links for the upper right navigation
+aux_links:
+  "Repo on GitHub":
+    - "//github.com/ipamaas/test-just-the-docs"
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
