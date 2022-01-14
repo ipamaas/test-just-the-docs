@@ -1,3 +1,21 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "This is a FabOS component that can be used to do great thins."
+permalink: /
+---
+
+# My Great Component
+{: .fs-9 }
+
+This is a FabOS component that can be used to do great thins.
+{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/ipamaas/test-just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
 # Some examples
 
 ## Text
