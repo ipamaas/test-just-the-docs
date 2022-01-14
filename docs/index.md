@@ -50,6 +50,11 @@ Ordered
 1. Use sequential numbers ...
 1. or just repeat `1.`
 
+Task List
+- [ ] todo item
+- [ ] another todo item
+- [x] this item is done
+
 ## Code
 
 Inline `code`
