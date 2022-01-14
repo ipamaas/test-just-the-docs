@@ -1,6 +1,6 @@
 title: "Test Title"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: fabos
+color_scheme: dark
 
 # Search
 search_enabled: true
