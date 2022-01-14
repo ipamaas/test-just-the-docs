@@ -16,118 +16,37 @@ This is a FabOS component that can be used to do great thins.
 
 ---
 
-# Some examples
+## Getting started
 
-## Text
+### Dependencies
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This component is built for [Jekyll](https://jekyllrb.com), a static site generator.
 
-## Headings
+### Quick Installation
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+Describe installation steps here.
 
-## Emphasis
+### Configuration
 
-**This is bold text**
+Describe configuration options here.
 
-__This is bold text__
+---
 
-*This is italic text*
+## About the project
 
-_This is italic text_
+This component is &copy; 2022-{{ "now" | date: "%Y" }} by [Matthias Stoehr](https://github.com/ipamaas).
 
-~~Strikethrough~~
+### License
 
-## Blockquotes
+This component is distributed by an [Apache2 license](https://github.com/ipamaas/test-just-the-docs/tree/master/LICENSE).
 
-> Blockquotes level 1
->> Blockquotes level 2
-> > > Blockquotes level 3
+### Contributing
 
-## Lists
+When contributing to this repository, please first discuss the change you wish to make via issue before making a change. 
+Read more about becoming a contributor in our GitHub repo.
 
-Unordered
+### Code of Conduct
 
-- Create list with `+`, `-`, or `*`
-- Sub-list:
-  + Entry 1
-  + Entry 2
-- ...
+This component is committed to fostering a welcoming community.
 
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. 3. Integer molestie lorem at massa
-
-1. Use sequential numbers ...
-1. or just repeat `1.`
-
-Task List
-- [ ] todo item
-- [ ] another todo item
-- [x] this item is done
-
-## Code
-
-Inline `code`
-
-Block code
-
-```
-Svar foo = function (bar) {
-  return bar++;
-};
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-```
-
-## Labels
-
-Default label
-{: .label }
-
-Blue label
-{: .label .label-blue }
-
-Stable
-{: .label .label-green }
-
-New release
-{: .label .label-purple }
-
-Coming soon
-{: .label .label-yellow }
-
-Deprecated
-{: .label .label-red }
-
-## Buttons
-
-[Link button](http://example.com/){: .btn }
-
-[Link button](http://example.com/){: .btn .btn-purple }
-[Link button](http://example.com/){: .btn .btn-blue }
-[Link button](http://example.com/){: .btn .btn-green }
-
-[Link button](http://example.com/){: .btn .btn-outline }
-
-## Tables
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[View our Code of Conduct](https://github.com/ipamaas/test-just-the-docs/tree/master/.github/CODE_OF_CONDUCT.md) on our GitHub repository.
