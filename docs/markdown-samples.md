@@ -123,3 +123,7 @@ Deprecated
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+## Images
+
+![](./assets/images/fab_luftbild.jpg)
