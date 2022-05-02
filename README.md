@@ -25,6 +25,16 @@ To develop and test your site inside a container using VS Code, follow these sta
 2. In the "Remote Menu" select "Open Folder in Container ..." and select the "docs" folder
 3. Wait for container created and started for VS Code remote development.
 4. Start Jekyll server by ``bundle exec jekyll serve --livereload``
+5. Open http://localhost:4000
 
 ## Release on Github Pages
 
+To release the site via Github Pages, follow these steps:
+1. Open the ``Settings`` tab of your github repository.
+2. Go to ``Pages``
+3. Enable Github Pages
+4. In ``Source`` select your main branch
+5. In ``Source`` select the "/docs" folder
+6. Save
+7. Check the ``Actions`` tab for build and deploy results.
+8. Open your site at ``https://<user_or_org_name>.github.io/<repo_name>/``
