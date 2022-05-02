@@ -2,7 +2,7 @@
 
 https://ipamaas.github.io/test-just-the-docs/
 
-## Use it
+## Usage
 
 To use the template as starting point for your own documentation site, follow these steps:
 1. Copy "docs" folder to your repository folder
@@ -15,8 +15,8 @@ To use the template as starting point for your own documentation site, follow th
 
 ### Preparation
 For local development, use VS Code and the "Remote Containers" externsion with Docker:
-2. Install VS Code
-3. Install Extension "Remote Containers" (Docker Runtime required!)
+1. Install VS Code
+2. Install Extension "Remote Containers" (Docker Runtime required!)
 
 ### Start development container
 
