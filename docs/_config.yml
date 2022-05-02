@@ -1,5 +1,5 @@
 title: "Test Title"
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 color_scheme: fabos
 logo: "/assets/images/fabos_logo.svg"
 
