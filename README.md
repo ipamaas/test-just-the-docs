@@ -20,5 +20,9 @@ For local development, use VS Code and the "Remote Containers" externsion with D
 
 ### Start development container
 
+To develop and test your site inside a container using VS Code, follow these staps:
+1. Type "Ctrl-Shift-P" and enter "Show Remote Menu"
+2. In the "Remote Menu" select "Open Folder in Container ..." and select the "docs" folder
+
 ## Release on Github Pages
 
