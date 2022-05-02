@@ -8,8 +8,8 @@ To use the template as starting point for your own documentation site, follow th
 1. Copy "docs" folder to your repository folder
 2. Update ``_config.yml`` file with your title, repository url and footer.
 3. Update the ``index.md`` file with your repository urls.
-4. Test your site locally following the development guide below.
-5. Publish your site on Github Pages following the release guide below.
+4. Test your site locally following [Development Guide](#development) below.
+5. Publish your site on Github Pages following [Release Guide](#release-on-github-pages) below.
 
 ## Development
 
