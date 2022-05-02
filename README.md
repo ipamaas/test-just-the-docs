@@ -14,4 +14,4 @@ To use the template as starting point for your own documentation site, follow th
 
 For local development, use VS Code and the "Remote Containers" externsion with Docker.
 
-[Open in VS Code](https://open.vscode.dev/ipamaas/test-just-the-docs)
+[Open in VS Code](https://open.vscode.dev/ipamaas/test-just-the-docs/docs)
