@@ -6,7 +6,7 @@ description: "This is a FabOS component that can be used to do great thins."
 permalink: /
 ---
 
-# My Great Component
+# My Great Component (v1.0.0)
 {: .fs-9 }
 
 This is a FabOS component that can be used to do great thins.
