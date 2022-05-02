@@ -14,7 +14,7 @@ To use the template as starting point for your own documentation site, follow th
 ## Development
 
 ### Preparation
-For local development, use VS Code and the "Remote Containers" externsion with Docker:
+For local development, use VS Code and the "Remote Containers" extension with Docker:
 1. Install VS Code
 2. Install Extension "Remote Containers" (Docker Runtime required!)
 
